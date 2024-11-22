@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##Languages and Tools:
+**Languages and Tools:**
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,java,mysql,mongodb,py,solidity)](https://skillicons.dev)
 
-##Framework:
+**Framework:**
 [![My Skills](https://skillicons.dev/icons?i=flask,react)](https://skillicons.dev)
 
-##IDE:
+**IDE:**
 [![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,eclipse,idea)](https://skillicons.dev)
