@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,eclipse,idea)](https://skillicons.dev)
 
 
-![ken-kaneki-tokyo-ghoul](https://github.com/user-attachments/assets/c9ce7745-286f-440f-aaff-41ffabc483e6)
+![ken-kaneki-tokyo-ghoul](https://github.com/user-attachments/assets/c9ce7745-286f-440f-aaff-41ffabc483e6) ![touka](https://github.com/user-attachments/assets/5741c8df-927d-47d2-8ef7-0bb8e37a84f8)
