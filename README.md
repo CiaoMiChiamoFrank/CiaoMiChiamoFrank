@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 
 ![ken-kaneki-tokyo-ghoul](https://github.com/user-attachments/assets/c9ce7745-286f-440f-aaff-41ffabc483e6) 
 
-[[![touka](https://github.com/user-attachments/assets/5741c8df-927d-47d2-8ef7-0bb8e37a84f8)](https://tenor.com/it/view/touka-tokyo-auxerre-gif-17833124358879150308)
-](https://tenor.com/vpv3SZHKxkm.gif)
+![touka-tokyo](https://github.com/user-attachments/assets/44a56029-86d8-49d7-98b5-460af0791651
