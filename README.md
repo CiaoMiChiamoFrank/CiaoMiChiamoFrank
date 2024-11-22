@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ![ken-kaneki-tokyo-ghoul](https://github.com/user-attachments/assets/c9ce7745-286f-440f-aaff-41ffabc483e6) 
 
-![touka-tokyo](https://github.com/user-attachments/assets/44a56029-86d8-49d7-98b5-460af0791651
+![touka-tokyo](https://github.com/user-attachments/assets/dc1635c4-6c0b-4d8a-804b-f46d64262dab)
