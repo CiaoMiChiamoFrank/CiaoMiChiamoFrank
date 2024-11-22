@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 
 # **IDE:**  
 [![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,eclipse,idea)](https://skillicons.dev)
+
+
+![ken-kaneki-tokyo-ghoul](https://github.com/user-attachments/assets/c9ce7745-286f-440f-aaff-41ffabc483e6)
