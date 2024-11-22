@@ -1,4 +1,5 @@
-## Hi, I'm a student at the University of Salerno. I think everyone has a fire inside, but only you can activate it 👋
+# Hi, I'm a student at the University of Salerno.  
+I think everyone has a fire inside, but only you can activate it 👋  
 <!--
 **CiaoMiChiamoFrank/CiaoMiChiamoFrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Languages and Tools:**
+
+# **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,java,mysql,mongodb,py,solidity)](https://skillicons.dev)
 
-**Framework:**
+# **Framework:**  
 [![My Skills](https://skillicons.dev/icons?i=flask,react)](https://skillicons.dev)
 
-**IDE:**
+# **IDE:**  
 [![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,eclipse,idea)](https://skillicons.dev)
