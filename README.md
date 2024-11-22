@@ -1,5 +1,4 @@
-# Hi, I'm a student at the University of Salerno.  
-I think everyone has a fire inside, but only you can activate it 👋  
+# Hi, I'm a student at the University of Salerno. I think everyone has a fire inside, but only you can activate it 👋  
 <!--
 **CiaoMiChiamoFrank/CiaoMiChiamoFrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
